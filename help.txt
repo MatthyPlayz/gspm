@@ -1,0 +1,12 @@
+GSPM v1.0.0 (gitStall Psuedo-Package Manager)
+GSPM + Psitfile (PSuedo gIT file)
+
+Commands:
+`base` == main exe filename
+`package` == package name on git
+`s_any` == any string
+
+#`[base] install [package]`
+Installs a package and runs the Psitfile included.
+#`[base] [s_any]`
+Provides help. 
